@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706875058 source:c:\users\hp\desktop\ppm\ejercicios cap 2\ejercicio p2.3\p2.3\main.c
+	<stdio.h>
+	<stdlib.h>
+
