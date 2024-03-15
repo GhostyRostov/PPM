@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710435178 source:c:\users\hp\desktop\ppm\ejercicios cap 7\ejercicio p7.2\p7.2\main.c
+	<stdio.h>
+	<ctype.h>
+
