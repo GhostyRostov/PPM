@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713747672 source:c:\users\hp\desktop\ppm\ejercicio_viaje\costo_viaje\main.c
+	<stdio.h>
+	<string.h>
+

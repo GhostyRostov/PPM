@@ -1,0 +1,16 @@
+--- Ultima actualizacion de datos ---
+
+Coche: ferrari
+
+Costo coche: 400000.00
+
+Promedio Uso Meses: 6.00
+
+Consumo (L/Km): 8.00
+
+Costo Combustible: 100.00
+
+Consumo (Km/Galon): 0.95
+
+Viaje (Km): 380.00
+
